@@ -7,13 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/nwilson7/odin-recipes">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Odin Recipes</h3>
 
   <p align="center">
@@ -25,9 +18,6 @@
     <a href="https://github.com/nwilson7/odin-recipes">View Demo</a>
     ·
     <a href="https://github.com/nwilson7/odin-recipes/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/nwilson7/odin-recipes/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
