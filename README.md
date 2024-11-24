@@ -47,7 +47,7 @@
 
 ## About The Project
 
-A little recipe site to brush up on my coding skills
+A little recipe site to brush up on my coding skills. You can access the site here: https://nwilson7.github.io/odin-recipes/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
