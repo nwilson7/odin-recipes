@@ -54,9 +54,9 @@ A little recipe site to brush up on my coding skills
 ### Built With
 
 - [![HTML][HTML]][HTML-url]
-- [![CSS][CSS]][CSS-url]
+<!-- - [![CSS][CSS]][CSS-url]
 - [![Javascript][Javascript]][Javascript-url]
-- [![React][React.js]][React-url]
+- [![React][React.js]][React-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
